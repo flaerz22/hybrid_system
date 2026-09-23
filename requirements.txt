@@ -1,0 +1,11 @@
+opencv-python == 4.13.0.92
+pygame == 2.6.1
+numpy == 1.24.4
+ultralytics == 8.4.19
+ultralytics-thop == 2.0.18
+PyOpenGL == 3.1.10
+matplotlib == 3.7.5
+openpyxl == 3.1.5
+pandas == 2.0.3
+
+python == 3.8.10
