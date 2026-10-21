@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation,platform version
+3,2511FPC34G,1792132393585,2026-10-16_06-33-13,Europe/Moscow,android,1.68,5da9e51c-5f93-4059-a581-898608ea42fb,Gyroscope|Annotation|GyroscopeUncalibrated,10||10,false,36
